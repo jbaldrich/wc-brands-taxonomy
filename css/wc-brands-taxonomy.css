@@ -1,0 +1,9 @@
+.product-categories a {
+  font-weight: 900;
+  color: black;
+}
+.product-categories a:hover {
+  color: #EC1D24;
+}
+
+/*# sourceMappingURL=wc-brands-taxonomy.css.map */
